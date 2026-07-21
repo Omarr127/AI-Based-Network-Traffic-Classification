@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Anomaly Detection System using Machine Learning
+# 🛡️ Cybersecurity Anomaly Detection System using Machine Learning and Deep learning models
 
 A machine learning-based intrusion detection system designed to identify and classify different types of cyberattacks from network traffic data. The project implements and compares multiple ML algorithms to detect malicious activities and distinguish between normal and attack behaviors.
 
